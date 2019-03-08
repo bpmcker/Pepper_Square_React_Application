@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron{
+  min-height:100%;
+  min-height:100vh;
+  align-items: center;
+  display: flex;
+  background: white;
+  !important
+}
+
+.eachImage {
+  height:50px;
+  width:50px;
+}
